@@ -1,3 +1,5 @@
+[![Claude Code Repos](https://img.shields.io/badge/Claude%20Code-Repos%20Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # AI Symposium 2026
 
 > A simulated AI conference featuring diverse agentic personas delivering perspectives on "AI in 2026: Looking Forward"
@@ -38,3 +40,7 @@ This project is part of a broader exploration of agentic AI for perspective synt
 ## License
 
 Open source — method and results shared publicly.
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
